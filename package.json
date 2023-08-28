@@ -1,0 +1,16 @@
+{
+  "name": "febry-main",
+  "version": "1.0.0",
+  "description": "https://himangmyid.github.io/febry/",
+  "main": "script.js",
+  "dependencies": {
+    "sax": "^1.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
